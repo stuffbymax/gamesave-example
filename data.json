@@ -1,0 +1,35 @@
+{
+  "categories": ["Action", "RPG", "Adventure", "Simulation", "Strategy"],
+  "games": [
+    {
+      "name": "The Legend of Zelda: Tears of the Kingdom",
+      "requestFileLink": "YOUR_GOOGLE_DOCS_REQUEST_FILE_LINK_HERE",
+      "category": "Adventure"
+    },
+    {
+      "name": "Elden Ring",
+      "requestFileLink": "YOUR_GOOGLE_DOCS_REQUEST_FILE_LINK_HERE",
+      "category": "RPG"
+    },
+    {
+      "name": "Stardew Valley",
+      "requestFileLink": "YOUR_GOOGLE_DOCS_REQUEST_FILE_LINK_HERE",
+      "category": "Simulation"
+    },
+    {
+      "name": "Baldur's Gate 3",
+      "requestFileLink": "YOUR_GOOGLE_DOCS_REQUEST_FILE_LINK_HERE",
+      "category": "RPG"
+    },
+    {
+      "name": "Factorio",
+      "requestFileLink": "YOUR_GOOGLE_DOCS_REQUEST_FILE_LINK_HERE",
+      "category": "Strategy"
+    },
+     {
+      "name": "Hollow Knight",
+      "requestFileLink": "YOUR_GOOGLE_DOCS_REQUEST_FILE_LINK_HERE",
+      "category": "Action"
+    }
+  ]
+}
